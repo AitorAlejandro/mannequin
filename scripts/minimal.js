@@ -1,0 +1,2 @@
+createScene();
+kid = new Child();
