@@ -1,2 +1,3 @@
 createScene();
-kid = new Child();
+imanol = new Child();
+
