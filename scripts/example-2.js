@@ -1,0 +1,2 @@
+createScene();
+imanol = new Child();
